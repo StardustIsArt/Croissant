@@ -1,3 +1,8 @@
 .main {
-    padding: 15px;
+  padding: 15px;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(129, 109, 108);
 }
