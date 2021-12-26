@@ -1,5 +1,11 @@
 body {
   background-color: rgb(129, 109, 108);
+  color: whitesmoke;
+}
+
+h2 {
+  font-size: 21px;
+  color: rgb(253, 222, 168);
 }
 
 .main {
